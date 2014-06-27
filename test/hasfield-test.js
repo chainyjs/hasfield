@@ -13,6 +13,8 @@ joe.describe("hasfield plugin", function(describe,it){
 		Chainy.create()
 			.set([a, b])
 			.hasfield('id')
+			.set([a, b])
+			.hasField('id')
 			.done(function(err, result){
 				if (err)  return next(err)
 				expect(result).to.deep.equal([a])

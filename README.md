@@ -51,7 +51,7 @@ require('chainy').create().require('set hasfield log')
 ### [Browserify](http://browserify.org/)
 - Use: `require('chainy-plugin-hasfield')`
 - Install: `npm install --save chainy-plugin-hasfield`
-- CDN URL: `//wzrd.in/bundle/chainy-plugin-hasfield@1.0.0`
+- CDN URL: `//wzrd.in/bundle/chainy-plugin-hasfield@1.0.1`
 
 ### [Ender](http://ender.jit.su/)
 - Use: `require('chainy-plugin-hasfield')`

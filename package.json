@@ -1,7 +1,7 @@
 {
   "title": "Hasfield action for [ChainyJS](http://chainyjs.org)",
   "name": "chainy-plugin-hasfield",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chainy action that filters out items in the chains data that do not have the specified field",
   "homepage": "https://github.com/chainy-plugins/hasfield",
   "keywords": [
